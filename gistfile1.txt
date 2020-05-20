@@ -1,3 +1,6 @@
 YERLIS PATRICIA CAMPO PEREZ.
 ¿Que es impress.JS?
-Impress.js  es una libreria
+Impress.js  es una libreria de Javascript que tiene como objetivo realizar presentaciones con una cuenta de linea de codigos de formas bien atractivas.
+esta libreria aprovecha los poderes de HTML Y CSS3 en conjunto de las transformaciones en 3D y HTML5.
+Solo es compatible con la ultima versopn de google chrome , safary yfirefox.
+ 
